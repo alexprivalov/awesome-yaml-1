@@ -332,6 +332,7 @@ YAML is a configuration format similar to JSON.
 * [kube-score](https://github.com/zegl/kube-score)
 * [Kubeval](https://www.kubeval.com/)
 * [learnk8s -- blog post](https://learnk8s.io/validating-kubernetes-yaml#kubeval)
+* [YAML Validator](https://yamlvalidator.dev), [(chrome extension)](https://chromewebstore.google.com/detail/yaml-validator/gjgbohnlhijomhfiflapnlnmcpckgigg) - Online YAML validator, formatter and viewer with JSON Schema support (Kubernetes, Docker Compose, GitHub Actions, and more)
 
 ## Tutorial
 <!--- id="dmid://uu086bintt1634232x021xlink" --->
